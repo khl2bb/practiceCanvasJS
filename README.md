@@ -1,7 +1,2 @@
-# practiceCanvasJS
-Im following NomadCoder -> 
-https://github.com/nomadcoders/paintjs
-
-imitating
-
-
+# paintjs
+Painting Board made with VanillaJS
