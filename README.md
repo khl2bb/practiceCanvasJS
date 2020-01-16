@@ -1,2 +1,7 @@
 # practiceCanvasJS
-Im following NomadCoder
+Im following NomadCoder -> 
+https://github.com/nomadcoders/paintjs
+
+imitating
+
+
